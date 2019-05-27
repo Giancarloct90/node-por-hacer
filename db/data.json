@@ -1,0 +1,10 @@
+[{
+    "descripcion": "Comprar comida",
+    "completado": "true"
+}, {
+    "descripcion": "Estudiar Nodejs",
+    "completado": "true"
+}, {
+    "descripcion": "Pasear el perro",
+    "completado": false
+}]
